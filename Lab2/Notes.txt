@@ -1,0 +1,5 @@
+Эта программа запускается с Command Prompt window (cmd):
+start <path_to_exe_file> argument
+//in our case <path_to_exe_file> is C:\Users\Sashko\Desktop\Cprojects\Lab2\main.exe
+
+start C:\Users\Sashko\Desktop\Cprojects\Lab2\main.exe

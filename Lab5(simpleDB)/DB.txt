@@ -1,0 +1,8 @@
+###             New_name      Historical_name           Profession     Speciality_field      Num_of_HR_studs         Students(HR)   Num_of_Other_studs          Students(O)
+  1                 FOOL                 FOLL                   IT                 Math                    2         Alex Drint 126                    1           West South 17
+                                                                                                                     Folge Eins 145
+  2                HA-HA                HO-HO                   It                 Math                    1        Santa Barbara 199                    1        Barbara Brylska 12
+  3                RONNM               MORRND               Magicc                 Wand                    4          Ron Weasley 122                    1       Dambldor Voldemort 1
+                                                                                                                     Harry Potter 144
+                                                                                                                  Germiona Graindger 139
+                                                                                                                    Lucius Malfoy 101
